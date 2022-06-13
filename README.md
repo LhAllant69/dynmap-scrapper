@@ -1,5 +1,5 @@
 # dynmap_scanner
-A tool to log everything that happens on a minecraft dynmap
+A tool that logs everything that happens on a minecraft server's dynmap
 
 Simply clone to repository and modify the config file to add in the dynmap's url and the dimension's name (more than likely it will just be "world")
 The tool will ping the dynmap every 30seconds and will log:
